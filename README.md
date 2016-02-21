@@ -1,3 +1,3 @@
-# get-weather
+# getweather
 
 Weather Website for HackIllinois 2016
